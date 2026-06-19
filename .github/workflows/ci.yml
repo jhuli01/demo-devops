@@ -43,7 +43,7 @@ jobs:
 
       # 6. Build Docker images
       - name: Build Docker image - Eureka
-        run: docker build -t eureka-server ./tema03-eureka-server
+        run: docker build -t eureka-server ./eureka-server
 
       - name: Build Docker image - Vuelo
         run: docker build -t servicio-vuelos ./tema06-servicio-vuelos

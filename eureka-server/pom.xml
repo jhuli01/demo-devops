@@ -8,10 +8,10 @@
 		<version>4.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.eureka</groupId>
-	<artifactId>tema03-eureka-server</artifactId>
+	<groupId>com.servidor</groupId>
+	<artifactId>eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tema03-eureka-server</name>
+	<name>eureka-server</name>
 	<description/>
 	<url/>
 	<licenses>

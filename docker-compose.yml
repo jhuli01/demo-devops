@@ -13,7 +13,7 @@ services:
 
   eureka-server:
     build:
-      context: ./tema03-eureka-server
+      context: ./eureka-server
     container_name: eureka-server
     ports:
       - "8761:8761"
